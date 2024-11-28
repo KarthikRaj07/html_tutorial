@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+}
+p{
+  font-family: Roboto;
+}
+button{
+  padding: 0px 80px  40px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 8px;
+  border-radius: 12px;
+  color: black;
+  border-color: black;
+  background-color: yellow;
+}
+button:hover{
+  color: rgb(231, 231, 112);
+  background-color: red;
+}
